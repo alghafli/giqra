@@ -2,3 +2,5 @@
     - initial release
 1.1:
     - fix long description in setup.py
+1.2:
+    - fix docstring for __init__.py and README.txt
