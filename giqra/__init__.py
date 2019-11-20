@@ -1,6 +1,6 @@
 '''
 :Date: 2019-11-20
-:Version: 1.1
+:Version: 1.2
 :Authors:
     * Mohammad Alghafli <thebsom@gmail.com>
 
@@ -27,7 +27,7 @@ All other dependancies will be installed automatically by pip.
 Usage
 -----
 
-Running the commandline interface::
+Running the application::
 
     python3 -m giqra
 
