@@ -8,7 +8,7 @@ import re
 
 long_description = open('README.txt').read()
 
-version = '1.0'
+version = '1.1'
 
 # Arguments marked as "Required" below must be included for upload to PyPI.
 # Fields marked as "Optional" may be commented out.
