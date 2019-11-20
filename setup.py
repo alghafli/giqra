@@ -6,10 +6,8 @@ copied and modified from https://github.com/pypa/sampleproject
 from setuptools import setup, find_packages
 import re
 
-#XXX
-long_description = ''
+long_description = open('README.txt').read()
 
-#XXX
 version = '1.0'
 
 # Arguments marked as "Required" below must be included for upload to PyPI.
